@@ -14,7 +14,7 @@ module.exports = {
   },
   module: {
     loaders: [
-      { test: /\.ts$/, loader: 'awesome-type-script-loader', exclude: [ /\.(spec|e2e).ts$/] }
+      { test: /\.ts$/, loader: 'awesome-typescript-loader', exclude: [ /\.(spec|e2e).ts$/] }
     ]
   }
 };
