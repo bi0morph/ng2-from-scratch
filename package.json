@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/bi0morph/ng2-from-scratch/issues"
   },
-  "homepage": "https://github.com/bi0morph/ng2-from-scratch#readme"
+  "homepage": "https://github.com/bi0morph/ng2-from-scratch#readme",
+  "devDependencies": {
+    "webpack": "1.12.14"
+  }
 }
