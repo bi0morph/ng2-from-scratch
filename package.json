@@ -1,0 +1,27 @@
+{
+  "name": "ng2-from-scratch",
+  "version": "0.0.1",
+  "description": "Simple ng2 app from scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bi0morph/ng2-from-scratch.git"
+  },
+  "keywords": [
+    "ng2",
+    "amgularjs",
+    "angularjs2",
+    "typescript",
+    "webpack.",
+    "javascript"
+  ],
+  "author": "'Ruslan <'rusustyugov@gmail.com'> (http://github.com/bi0morph)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bi0morph/ng2-from-scratch/issues"
+  },
+  "homepage": "https://github.com/bi0morph/ng2-from-scratch#readme"
+}
